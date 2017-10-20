@@ -1,6 +1,6 @@
 this is a new file
-sdasdsdadada
+new branch
 i just add some text
 
 
-in a new branch
+from new branch
