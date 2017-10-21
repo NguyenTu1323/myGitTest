@@ -1,6 +1,5 @@
-this is a new file
-new branch
-i just add some text
+alice make some
+modification
 
-
-from new branch
+alice make some
+modification
