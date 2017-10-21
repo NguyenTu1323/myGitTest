@@ -1,7 +1,6 @@
-bob make some
+alice make some
 modification
 
-bob make some
+alice make some
 modification
 
-kaka bob
